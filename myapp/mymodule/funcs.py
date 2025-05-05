@@ -2,6 +2,8 @@
 funcs.py contains four math functions.
 """
 
+def power(a, b):
+    return a ** b
 
 def add(a, b):
     return a + b
