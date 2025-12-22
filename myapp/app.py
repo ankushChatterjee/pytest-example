@@ -1,6 +1,6 @@
 from myapp.mymodule.funcs import multiply, divide
 
-
+#123
 def multiply_by_two(x):
     return multiply(x, 2)
 
